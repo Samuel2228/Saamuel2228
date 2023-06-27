@@ -16,11 +16,8 @@ I'm an Intern of PMT, the largest mass transit and logistic company in West and 
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I share the same birthday with Elon Musk
 
-My regular task:
-A Jnr, Software developer who turns innovative ideas into business solutions and sees enterprises rise to their optimal potential.
-
 Recent Articles:
-[Array Excercise] (https://sammycj.hashnode.dev/array-excercise)
-[Object Excercise] (https://sammycj.hashnode.dev/solutions-to-object-javascript-exercise)
-[Relationship between a Software Developer and a Product Manager] (https://medium.com/@sammycj222/relationship-between-a-product-manager-and-a-software-developer-6dae27593814)
-[SDLC (Software Development Life Cycle) for Logitics] (https://medium.com/@sammycj222/relationship-between-a-product-manager-and-a-software-developer-6dae27593814)
+[Array Excercise](https://sammycj.hashnode.dev/array-excercise)
+[Object Excercise](https://sammycj.hashnode.dev/solutions-to-object-javascript-exercise)
+[Relationship between a Software Developer and a Product Manager](https://medium.com/@sammycj222/relationship-between-a-product-manager-and-a-software-developer-6dae27593814)
+[SDLC (Software Development Life Cycle) for Logitics](https://medium.com/@sammycj222/relationship-between-a-product-manager-and-a-software-developer-6dae27593814)
