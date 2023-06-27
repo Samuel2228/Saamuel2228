@@ -8,7 +8,7 @@ I'm an Intern of PMT, the largest mass transit and logistic company in West and 
 
 ### Summary
 
-- 📚 Sammy's blogs: [hashnode.dev] (https://sammycj.hashnode.dev/) | [medium.com] (https://medium.com/@sammycj222)
+- 📚 Sammy's blogs: [hashnode.dev](https://sammycj.hashnode.dev/)|[medium.com](https://medium.com/@sammycj222)
 - 🔭 I’m currently working at pmt.ng as a junior Software Developer
 - 👯 I’m currently learning: Front end Web Development
 - 💬 Ask me about taking an idea and building a complete product
@@ -17,6 +17,7 @@ I'm an Intern of PMT, the largest mass transit and logistic company in West and 
 - ⚡ Fun fact: I share the same birthday with Elon Musk
 
 Recent Articles:
+
 [Array Excercise](https://sammycj.hashnode.dev/array-excercise)
 [Object Excercise](https://sammycj.hashnode.dev/solutions-to-object-javascript-exercise)
 [Relationship between a Software Developer and a Product Manager](https://medium.com/@sammycj222/relationship-between-a-product-manager-and-a-software-developer-6dae27593814)
