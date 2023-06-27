@@ -19,6 +19,9 @@ I'm an Intern of PMT, the largest mass transit and logistic company in West and 
 Recent Articles:
 
 [Array Excercise](https://sammycj.hashnode.dev/array-excercise)
+
 [Object Excercise](https://sammycj.hashnode.dev/solutions-to-object-javascript-exercise)
+
 [Relationship between a Software Developer and a Product Manager](https://medium.com/@sammycj222/relationship-between-a-product-manager-and-a-software-developer-6dae27593814)
+
 [SDLC (Software Development Life Cycle) for Logitics](https://medium.com/@sammycj222/relationship-between-a-product-manager-and-a-software-developer-6dae27593814)
