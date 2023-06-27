@@ -4,7 +4,7 @@ I'm an Intern of PMT, the largest mass transit and logistic company in West and 
 
 ### Summary
 
-- 📚 Sammy's blogs: Hashnode.dev](https://sammycj.hashnode.dev/) | [Medium.com](https://medium.com/@sammycj222)
+- 📚 Sammy's blogs: Hashnode.dev](https://sammycj.hashnode.dev/) | (https://medium.com/@sammycj222)
 - 🔭 I’m currently working at [PMT.ng](https://pmt.ng/) as Intern
 - 👯 I’m looking to collaborate on any exciting challenge
 - 💬 Ask me about taking an idea and building a complete product
