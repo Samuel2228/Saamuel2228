@@ -25,3 +25,5 @@ I'm an Intern of PMT, the largest mass transit and logistic company in West and 
 [Relationship between a Software Developer and a Product Manager](https://medium.com/@sammycj222/relationship-between-a-product-manager-and-a-software-developer-6dae27593814)
 
 [SDLC (Software Development Life Cycle) for Logitics](https://medium.com/@sammycj222/relationship-between-a-product-manager-and-a-software-developer-6dae27593814)
+
+[Agile Methodology](https://medium.com/@sammycj222/agile-methodology-b7951e8441d)
